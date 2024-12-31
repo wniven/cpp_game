@@ -1,0 +1,3 @@
+board2Rm.txt 1 1 points = 1000
+board2Rm.txt 2 2 points = 1500
+board2Rm.txt 6 3 points = 2000

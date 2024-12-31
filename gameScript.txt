@@ -1,0 +1,7 @@
+board2Rm.txt     5 1 points = 1000
+board2Rm.txt    10 2 points = 1500
+boardMaze.txt    5 1 points = 2000
+boardCenter.txt  3 1 points = 2500
+boardMaze.txt    7 2 points = 3000
+boardCenter.txt 10 5 points = 3500
+boardMaze.txt   20 5 points = 4000
